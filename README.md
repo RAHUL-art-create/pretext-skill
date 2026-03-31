@@ -2,7 +2,7 @@
 
 > **The 15-year web text-layout problem, solved by @chenglou.**
 
-[![Skill Registry](https://img.shields.io/badge/skill.sh-pretext--layout--engine-6366f1)](https://skills.sh/pretext-layout-engine)
+[![Skill Registry](https://img.shields.io/badge/skill.sh-pretext--skill-6366f1)](https://skills.sh/RAHUL-art-create/pretext-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the authoritative **AI Agent Skill** for mastering the [Pretext](https://github.com/chenglou/pretext) layout engine. Install it to your agents (Cursor, Windsurf, Claude Code, GitHub Copilot) to build pixel-perfect, zero-reflow UIs across all languages and scripts.
@@ -13,7 +13,7 @@ Maintained by **RAHUL U**.
 Install this skill directly to your AI coding environment:
 
 ```bash
-npx skills add rahul-u/pretext-layout-engine
+npx skills add RAHUL-art-create/pretext-skill
 ```
 
 ## Search Compatibility (SEO)

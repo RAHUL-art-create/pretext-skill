@@ -1,7 +1,7 @@
 ---
 name: pretext-layout-engine
 description: The ultimate reference for AI agents to master @chenglou/pretext. Enables zero-reflow, pixel-perfect text layout at 120fps across all languages and mixed scripts.
-author: RAHUL U
+author: RAHUL-art-create
 version: 1.0.0
 tags: ["layout", "typography", "performance", "ui", "typescript"]
 ---
@@ -41,7 +41,7 @@ With this solved, we no longer have to choose between the flashiness of a GL lan
 
 ```bash
 # Install with skill.sh
-npx skills add pretext-layout-engine
+npx skills add RAHUL-art-create/pretext-skill
 
 # Or install the library manually
 npm install @chenglou/pretext
