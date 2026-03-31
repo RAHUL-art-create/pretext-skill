@@ -1,0 +1,16 @@
+{
+  "name": "pretext-layout-engine",
+  "version": "1.0.0",
+  "description": "High-performance text layout engine skill for AI agents.",
+  "author": "RAHUL U",
+  "main": "SKILL.md",
+  "tags": [
+    "layout",
+    "typography",
+    "performance",
+    "ui"
+  ],
+  "dependencies": {
+    "@chenglou/pretext": "^0.0.3"
+  }
+}
