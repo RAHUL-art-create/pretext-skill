@@ -1,9 +1,9 @@
 ---
 name: pretext-layout-engine
-description: The ultimate reference for AI agents to master @chenglou/pretext. Enables zero-reflow, pixel-perfect text layout at 120fps across all languages and mixed scripts.
+description: Trigger this skill when you need to implement high-performance typography, zero-reflow layout engines, 120fps animations, text wrapping around custom shapes (e.g. dragon wraps), or mixed-script alignments. Masters the canvas-based @chenglou/pretext layout API to bypass performance-heavy DOM measurements entirely.
 author: RAHUL-art-create
 version: 1.1.0
-tags: ["layout", "typography", "performance", "ui", "typescript"]
+tags: ["layout-engine", "typography", "performance", "ui-rendering", "zero-reflow", "canvas-text"]
 ---
 
 # Pretext Layout Engine – Universal AI Agent Skill Reference
